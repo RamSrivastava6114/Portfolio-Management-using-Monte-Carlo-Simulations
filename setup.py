@@ -4,8 +4,8 @@ setup(
     name='portfolio_management',
     version='1.0.0',
     description='Portfolio Management with Monte Carlo Simulation',
-    author='Cristian Leo',
-    author_email='cristianleo120@gmail.com',
+    author='Ram Srivastava',
+    author_email='ramsrivastava4321@gmail.com',
     packages=find_packages(),
     install_requires=[
         'numpy>=1.18.0',
