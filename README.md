@@ -274,11 +274,8 @@ This project is licensed under the terms of the [MIT License](LICENSE).
 
 ## Contact
 
-- **Author**: Your Name
-- **Email**: [cristianleo120@gmail.com](mailto:cristianleo120@gmail.com)
-- **GitHub**: [cristianleoo](https://github.com/cristianleoo)
-- **LinkedIn**: [cristian-leo](https://www.linkedin.com/in/cristian-leo/)
-- **Medium**: [cristianleo120](https://medium.com/@cristianleo120)
+- **Author**: Ram Srivastava
+- **Email**: ramsrivastava4321@gmail.com
 
 Feel free to reach out for any inquiries or collaboration opportunities.
 
